@@ -1,0 +1,39 @@
+.App {
+  text-align: center;
+}
+
+.col {
+  flex-direction: column;
+}
+
+
+.d-flex {
+  display: flex;
+  align-items: center;
+}
+
+.hero h1 {
+  font-size: 40px;
+}
+
+.hero img {
+  width: 100%;
+}
+
+.btn-div {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.btn-add {
+  position: relative;
+  right: 0;
+}
+
+table {
+  margin-bottom: 100px;
+}
+
+.btn-flat {
+  display: inline-block !important;
+}
