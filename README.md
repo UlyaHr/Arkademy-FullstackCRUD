@@ -10,7 +10,7 @@
 
 ### 🔌Cara Menjalankan
 1. Install dependencies dengan command `yarn install` atau `npm install`
-2. Buat database arkademy di server MySQL lalu import file arkademy.sql yang sudah tersedia.
+2. Buat database arkademy di server MySQL lalu import file arka_db.sql yang sudah tersedia.
 3. Sesuaikan kredensial host dan login MySQL pada folder `server/config/db.js`
 4. Setelah sudah menginstall dependensi, jalankan dengan perintah `yarn start` atau `npm start`
 
