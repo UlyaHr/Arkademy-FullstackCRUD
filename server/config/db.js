@@ -4,7 +4,7 @@ const conn = mysql
     .createConnection({
         host: "localhost",
         user: "root",
-        password: "Expeliarmus173",
+        password: "",
         database: "arkademy"
     })
     .promise();
